@@ -1,2 +1,4 @@
 # ATV1-
-# Projeto Inicial
+# Projeto Inicial : Sistema informatizado em suas rotinas.
+# Tecnologia : Java
+
