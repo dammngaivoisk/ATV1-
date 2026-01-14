@@ -6,6 +6,7 @@ public class vendasVIEW extends javax.swing.JFrame {
     public vendasVIEW() {
         initComponents();
         listarVendidos();
+        
     }
 
     private javax.swing.JScrollPane jScrollPane1;
